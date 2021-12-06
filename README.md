@@ -1,4 +1,4 @@
-## *"System.out.println("Welcome! 🌎")*
+## *"System.out.println("Welcome! 🛸")*
 Olá, eu sou Jorge Brandão, estudante de programação e futuro desenvolvedor Java ☕
 - 💻 Estudante da linguagem Java
 - 🎓 Análise e Desenvolvimento de Sistemas 
