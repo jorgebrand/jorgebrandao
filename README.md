@@ -24,4 +24,4 @@ Olá, eu sou Jorge Brandão, estudante de programação e futuro desenvolvedor J
   ![Snake animation](https://github.com/jorgebrand/jorgebrand/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-a
+
