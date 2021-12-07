@@ -1,4 +1,4 @@
-# <h1 align="center"> *System.out.println("Hello, World! 🌎")* </h1>
+## *System.out.println("Hello, World! 🌎")*
 
 Olá, eu sou Jorge Brandão, estudante de programação e futuro desenvolvedor Java ☕
 - 💻 Estudante da linguagem Java
@@ -14,7 +14,6 @@ Olá, eu sou Jorge Brandão, estudante de programação e futuro desenvolvedor J
   <i class="devicon-java-plain-wordmark colored"></i>
   <img align="center" alt="Jorge-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Jorge-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jorge-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
   
  ##
