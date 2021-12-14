@@ -1,7 +1,7 @@
 ## *System.out.println("Hello, World! 🌎")*
 
 Olá, eu sou Jorge Brandão, estudante de programação e futuro desenvolvedor Java ☕
-- 💻 Estudante da linguagem Java
+- 💻 Estudante de Programação
 - 🎓 Análise e Desenvolvimento de Sistemas - [UNICSUL](https://www.cruzeirodosulvirtual.com.br)
 
 <div align="center">
