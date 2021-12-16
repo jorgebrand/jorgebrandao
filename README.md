@@ -5,8 +5,8 @@ Sou estudante de programação/desenvolvimento, tenho diversas experiências no 
 
 ##
 
-- 💻 Estudando atualmente : Java<img align="center" alt="Jorge-Java" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">| Csharp <img align="center" alt="Jorge-C#" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas - [UNICSUL](https://www.cruzeirodosulvirtual.com.br)
+- 🌱 Estudando atualmente : Java<img align="center" alt="Jorge-Java" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">| Csharp <img align="center" alt="Jorge-C#" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+- 📚 Cursando Análise e Desenvolvimento de Sistemas - [UNICSUL](https://www.cruzeirodosulvirtual.com.br)
 
   <div>
 
