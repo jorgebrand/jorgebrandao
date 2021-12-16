@@ -22,7 +22,7 @@ Olá, eu sou Jorge Brandão 🛸
 </div>
 
 <div>
-  <img align="right" alt="fsociety" width="200" height="200" src="https://64.media.tumblr.com/645e3fe22a04b70ec3bf417c82e63dd5/3c43b6c96a75bc06-cb/s500x750/6ca17494756f9eb597a44f7663556401933bafc2.gifv">
+  <img align="right" alt="fsociety" width="200" height="200" src="https://64.media.tumblr.com/ba2cbbaeef669f52b7b12d83fa30ced9/3c43b6c96a75bc06-fd/s500x750/c2d18b588b038a81b75032ff893569c345c4aecf.gifv">
     
   </div>
   
