@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="100px" style="max-width: 100%;"></a> *System.out.println("Hello, World! 🌎")* 
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="60px" style="max-width: 100%;"></a> *System.out.println("Hello World");* 
   
 Olá, eu sou Jorge Brandão 🛸
 - 💻 Estudante de Programação | Atualmente na Linguagem Java ☕
@@ -7,7 +7,7 @@ Olá, eu sou Jorge Brandão 🛸
   <div>
 
     <img height="170em"   align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeBranda0&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeBranda0&&layout=compact&hide=shell&theme=merko">
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeBranda0&&layout=compact&hide=shell&theme=dark">
   
       
 
