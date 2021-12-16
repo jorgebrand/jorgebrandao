@@ -4,7 +4,7 @@
 ### Olá, me chamo Jorge Brandão, tenho 18 anos.
 Sou estudante de programação/desenvolvimento, tenho diversas experiências no ramo da tecnologia, contínuo sempre me atualizando e buscando novos desafios para o meu progresso profissional.
 
-##
+##⚡ Technologies
 
 - 🌱 Estudando atualmente : Java<img align="center" alt="Jorge-Java" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">| Csharp <img align="center" alt="Jorge-C#" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
@@ -35,10 +35,9 @@ Sou estudante de programação/desenvolvimento, tenho diversas experiências no 
   
   ##
   
-  <a href = "mailto:brandaoneto01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jorgebrandaon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/jorgebrandaojj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
+[![Gmail: jorge](https://img.shields.io/badge/-Gmail-green?style=flat-square&logo=Gmail&logoColor=white&link=brandaoneto01@gmail.com)](brandaoneto01@gmail.com)
+[![Linkedin: jorge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jorgebrandaon/)](https://www.linkedin.com/in/jorgebrandaon/)
+[![Instagram: jorge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/jorgebrandaojj/)](https://www.instagram.com/jorgebrandaojj/)  
 
   ![Snake animation](https://github.com/JorgeBranda0/JorgeBranda0/blob/output/github-contribution-grid-snake.svg)
 
