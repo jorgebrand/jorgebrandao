@@ -3,7 +3,7 @@
 ### Sobre mim:
 Meu nome é Jorge Brandão, tenho 18 anos.
 
-- 💻 Programming student | Java<img align="center" alt="Jorge-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+- 💻 Estudando atualmente: Java<img align="center" alt="Jorge-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - [UNICSUL](https://www.cruzeirodosulvirtual.com.br)
 
   <div>
