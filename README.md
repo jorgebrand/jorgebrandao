@@ -1,9 +1,11 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="60px" style="max-width: 100%;"></a> *System.out.println("Hello Friend");* 
 
-### Sobre mim:
-Meu nome é Jorge Brandão, tenho 18 anos.
+### Olá, me chamo Jorge Brandão, tenho 18 anos.
+Sou estudante de programação/desenvolvimento, tenho diversas experiências no ramo da tecnologia, contínuo sempre me atualizando e buscando novos desafios para o meu progresso profissional.
 
-- 💻 Estudando atualmente: Java<img align="center" alt="Jorge-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+##
+
+- 💻 Estudando atualmente : Java<img align="center" alt="Jorge-Java" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">| Csharp <img align="center" alt="Jorge-C#" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - [UNICSUL](https://www.cruzeirodosulvirtual.com.br)
 
   <div>
@@ -20,6 +22,7 @@ Meu nome é Jorge Brandão, tenho 18 anos.
   <img align="center" alt="Jorge-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Jorge-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jorge-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Jorge-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
 <div>
