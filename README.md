@@ -1,4 +1,5 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="60px" style="max-width: 100%;"></a> *System.out.println("Hello Friend");* 
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="60px" style="max-width: 100%;"></a> *System.out.println("Hello Friend");* <img align="center" alt="Jorge-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain.svg" />
+
 
 ### Olá, me chamo Jorge Brandão, tenho 18 anos.
 Sou estudante de programação/desenvolvimento, tenho diversas experiências no ramo da tecnologia, contínuo sempre me atualizando e buscando novos desafios para o meu progresso profissional.
@@ -10,8 +11,8 @@ Sou estudante de programação/desenvolvimento, tenho diversas experiências no 
 
   <div>
 
-    <img height="170em"   align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeBranda0&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeBranda0&&layout=compact&hide=shell&theme=merko">
+    <img height="170em"   align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeBranda0&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeBranda0&&layout=compact&hide=shell&theme=dark">
   
       
 
