@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="60px" style="max-width: 100%;"></a> *System.out.println("Hello Friend");* <img align="center" alt="Jorge-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain.svg" />
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="60px" style="max-width: 100%;"></a> *System.out.println("Hello Friend");* <img align="center" alt="Jorge-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" />
 
 
 ### Olá, me chamo Jorge Brandão, tenho 18 anos.
@@ -7,6 +7,7 @@ Sou estudante de programação/desenvolvimento, tenho diversas experiências no 
 ##
 
 - 🌱 Estudando atualmente : Java<img align="center" alt="Jorge-Java" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">| Csharp <img align="center" alt="Jorge-C#" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
 - 📚 Cursando Análise e Desenvolvimento de Sistemas - [UNICSUL](https://www.cruzeirodosulvirtual.com.br)
 
   <div>
@@ -27,7 +28,7 @@ Sou estudante de programação/desenvolvimento, tenho diversas experiências no 
 </div>
 
 <div>
-  <img align="right" alt="image" width="200" height="200" src="https://64.media.tumblr.com/fbecf0d1d807571159b5294edf27f9b7/f51c7565d5675ffb-8e/s250x250_c1/38b428e7c9479553d955c2ff7e21da6c945299de.gifv">
+  <img align="right" alt="image" width="600" height="240" src="https://i.pinimg.com/originals/48/ee/98/48ee98746abae9e733f96f6a2cdb3c4a.gif">
     
   </div>
   
