@@ -28,7 +28,7 @@ Sou estudante de programação/desenvolvimento, tenho diversas experiências no 
 </div>
 
 <div>
-  <img align="right" alt="image" width="600" height="240" src="https://i.pinimg.com/originals/48/ee/98/48ee98746abae9e733f96f6a2cdb3c4a.gif">
+  <img align="right" alt="image" width="300" height="300" src="https://media0.giphy.com/media/26AHqOyLmEsecqHK0/giphy.gif">
     
   </div>
   
