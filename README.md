@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" style="max-width: 100%;"></a> *System.out.println("Hello, World! 🌎")* 
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="100px" style="max-width: 100%;"></a> *System.out.println("Hello, World! 🌎")* 
   
 Olá, eu sou Jorge Brandão 🛸
 - 💻 Estudante de Programação | Atualmente na Linguagem Java ☕
