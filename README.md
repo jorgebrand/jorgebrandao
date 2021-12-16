@@ -1,7 +1,9 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="60px" style="max-width: 100%;"></a> *System.out.println("Hello Friend");* 
 
+### Sobre mim:
+Meu nome é Jorge Brandão, tenho 18 anos.
 
-- 💻 Estudante de Programação | Atualmente na Linguagem Java ☕
+- 💻 Programming student | Java<img align="center" alt="Jorge-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - [UNICSUL](https://www.cruzeirodosulvirtual.com.br)
 
   <div>
