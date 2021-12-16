@@ -11,7 +11,7 @@ Sou estudante de programação/desenvolvimento, tenho diversas experiências no 
   <div>
 
     <img height="170em"   align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeBranda0&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeBranda0&&layout=compact&hide=shell&theme=dark">
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeBranda0&&layout=compact&hide=shell&theme=merko">
   
       
 
