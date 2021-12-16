@@ -35,7 +35,7 @@ Sou estudante de programação/desenvolvimento, tenho diversas experiências no 
   
   ##
   
-[![Gmail: jorge](https://img.shields.io/badge/-Gmail-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatorafaballerini@gmail.com)](mailto:contatorafaballerini@gmail.com)
+[![Gmail: jorge](https://img.shields.io/badge/-Gmail-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brandaoneto01@gmail.com)](mailto:brandaoneto01@gmail.com)
 [![Linkedin: jorge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jorgebrandaon/)](https://www.linkedin.com/in/jorgebrandaon/)
 [![Instagram: jorge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/jorgebrandaojj/)](https://www.instagram.com/jorgebrandaojj/)  
 
