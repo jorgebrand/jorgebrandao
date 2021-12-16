@@ -1,6 +1,6 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="60px" style="max-width: 100%;"></a> *System.out.println("Hello World");* 
-  
-Olá, eu sou Jorge Brandão 🛸
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="60px" style="max-width: 100%;"></a> *System.out.println("Hello Friend");* 
+
+
 - 💻 Estudante de Programação | Atualmente na Linguagem Java ☕
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - [UNICSUL](https://www.cruzeirodosulvirtual.com.br)
 
@@ -31,11 +31,7 @@ Olá, eu sou Jorge Brandão 🛸
   <a href="https://www.linkedin.com/in/jorgebrandaon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/jorgebrandaojj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  <table align="right">
- <tr><td><a href="README.us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
- <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
-</table>
-  
+
   ![Snake animation](https://github.com/JorgeBranda0/JorgeBranda0/blob/output/github-contribution-grid-snake.svg)
 
 </div>
