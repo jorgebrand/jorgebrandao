@@ -5,7 +5,7 @@ Olá, eu sou Jorge Brandão 🛸
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - [UNICSUL](https://www.cruzeirodosulvirtual.com.br)
 
 <table align="right">
- <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
+ <tr><td><a href="README.us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
 </table>
 
