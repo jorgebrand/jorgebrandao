@@ -5,10 +5,9 @@ Olá, eu sou Jorge Brandão 🛸
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - [UNICSUL](https://www.cruzeirodosulvirtual.com.br)
 
   <div>
-  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeBranda0&show_icons=true&theme=tokyonigh&include_all_commits=true&count_private=true">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeBranda0&&layout=compact&hide=shell&theme=tokyonigh">
-  
-  
+
+  <img height="200em"   align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeBranda0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+ <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeBranda0&&layout=compact&hide=shell&theme=tokyonight">
   
       
 
