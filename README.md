@@ -4,11 +4,6 @@ Olá, eu sou Jorge Brandão 🛸
 - 💻 Estudante de Programação | Atualmente na Linguagem Java ☕
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - [UNICSUL](https://www.cruzeirodosulvirtual.com.br)
 
-<table align="right">
- <tr><td><a href="README.us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
- <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
-</table>
-
   <div>
 
     <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeBranda0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
@@ -35,6 +30,11 @@ Olá, eu sou Jorge Brandão 🛸
   <a href = "mailto:brandaoneto01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jorgebrandaon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/jorgebrandaojj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <table align="right">
+ <tr><td><a href="README.us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
+ <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
+</table>
   
   ![Snake animation](https://github.com/JorgeBranda0/JorgeBranda0/blob/output/github-contribution-grid-snake.svg)
 
