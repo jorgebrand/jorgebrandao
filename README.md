@@ -1,7 +1,7 @@
 ##  Olá amigos(a) 👋
 
 
-### Me chamo Jorge Brandão, tenho 18 anos e sou estudante de programação e desenvolvimento 😃
+### Me chamo Jorge Brandão, tenho 18 anos e sou estudante de programação e desenvolvimento! 😃
 
 - Análise e Desenvolvimento de Sistemas - [UNICSUL](https://www.cruzeirodosulvirtual.com.br)
   
