@@ -1,8 +1,7 @@
 ##  Olá amigos(a) 👋
 
 
-### Me chamo Jorge Brandão, tenho 18 anos.
-Sou estudante de programação/desenvolvimento autodidata, futuro desenvolvedor Java <img align="center" alt="Jorge-Java" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+### Me chamo Jorge Brandão, tenho 18 anos e sou estudante de programação e desenvolvimento 😃
 
 - Análise e Desenvolvimento de Sistemas - [UNICSUL](https://www.cruzeirodosulvirtual.com.br)
   
