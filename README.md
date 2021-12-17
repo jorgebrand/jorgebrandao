@@ -1,4 +1,4 @@
-##  Olá amigo(a) 👋
+##  Olá amigos(a) 👋
 
 
 ### Me chamo Jorge Brandão, tenho 18 anos.
