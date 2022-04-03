@@ -1,4 +1,4 @@
-##  Olá amigos(as) 👋
+##  Olá amigos(a) 👋
 
 
 ### Me chamo Jorge Brandão, sou estudante de programação e desenvolvimento! 😃
