@@ -1,5 +1,4 @@
-##  Olá amigos(a) 👋 
-### Me chamo Jorge Brandão, sou estudante de programação e desenvolvimento! 😃
+##  Me chamo Jorge Brandão, sou estudante de programação e desenvolvimento! 😃
 
 <div align="center">
   <a href="https://github.com/JorgeBranda0">
