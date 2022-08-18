@@ -1,6 +1,6 @@
 ##  Eai Dev, me chamo Jorge Brandão. Sou estudante de programação e desenvolvimento! 😃
 
-<div align="center">
+<div>
   <a href="https://github.com/JorgeBranda0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeBranda0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeBranda0&layout=compact&langs_count=7&theme=dark"/>
