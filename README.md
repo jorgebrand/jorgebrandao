@@ -17,8 +17,8 @@
   
   ##
   
-[![Gmail: jorge](https://img.shields.io/badge/-Gmail-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brandaoneto01@gmail.com)](mailto:brandaoneto01@gmail.com)
-[![Linkedin: jorge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jorgebrandaon/)](https://www.linkedin.com/in/jorgebrandaon/)
+<a href = "mailto:brandaoneto01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jorgebrandaon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/JorgeBranda0/JorgeBranda0/blob/output/github-contribution-grid-snake.svg)
 
